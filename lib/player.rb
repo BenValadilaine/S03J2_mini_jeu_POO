@@ -57,7 +57,7 @@ class HumanPlayer < Player
     new_weapon_level = rand(1..6)
     if new_weapon_level > weapon_level
       @weapon_level = new_weapon_level
-      puts "Cool ! L'arme que tu viens de trouver est de niveau #{new_weapon_level}.\n Elle plus puissante que l'ancienne, tu la gardes !"
+      puts "Cool ! L'arme que tu viens de trouver est de niveau #{new_weapon_level}.\nElle plus puissante que l'ancienne, tu la gardes !"
     else
       puts "C'est balo, cette nouvelle arme n'est pas meilleure que l'ancienne, tu la balances au loin."
     end
