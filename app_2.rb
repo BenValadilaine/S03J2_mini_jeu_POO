@@ -36,10 +36,6 @@ puts"  -------------------------------------------------
   |      Bienvenue sur Rings of the Lords !       |
   |          Parviendras-tu à terrasser           |
   |   les deux ennemis mortels de l'humanité ?    |
-  |             Ash nazg durbatulûk               |
-  |              ash nazg gimbatul                |
-  |             Ash nazg thrakatulûk              |
-  |           agh burzum-ishi krimpatul           |
   -------------------------------------------------"
 
 #Game introduction
