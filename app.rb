@@ -25,5 +25,7 @@ def play(ben,nora)
   fight(ben,nora)
 end
 
-binding.pry
-#End of code
+ben = Player.new("Ben")
+nora = Player.new("Nora")
+
+play(ben,nora)
